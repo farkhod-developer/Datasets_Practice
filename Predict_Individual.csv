@@ -1,4 +1,4 @@
-Season,Age,Childish_Diseases,Accident_or_trauma,Surgical_intervention,High_fevers_last_year,Alcohol_consumption,Smoking_Habit,Number_of_hours_spent_sitting_per_day,Output
+Season,Age,Childish Diseases,Accident or serious trauma,Surgical intervention,High fevers in last year,Frequency of alcohol consumption,Smoking Habit,Number of   hours spent sitting per day,Output
 -0.33,0.69,0,1,1,0,0.8,0,0.88,N
 -0.33,0.94,1,0,1,0,0.8,1,0.31,O
 -0.33,0.5,1,0,0,0,1,-1,0.5,N
